@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rojan-bajgain-201b1b26b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/RojanBajgain)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=Flutter+Developer;Mobile+App+Specialist;UI/UX+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=Flutter+Developer;UI/UX+Enthusiast" alt="Typing SVG" />
 
 <img align="center" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Mobile Development GIF" />
 
