@@ -28,10 +28,6 @@
   
   ## 🛠️ Arsenal of Technologies
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=%23F7DF1E&background=000000&center=true&vCenter=true&width=600&lines=Mastering+the+Art+of+Code;Bringing+Ideas+to+Life+with+Tech;Transforming+Challenges+into+Solutions" />
-  
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="400" alt="Tech battle animation" />
-  
   ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
