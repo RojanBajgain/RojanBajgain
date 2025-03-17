@@ -10,9 +10,6 @@
     <a href="https://www.instagram.com/rojan_bajgain/">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100004949745538">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
   </p>
 </div>
 
@@ -27,24 +24,7 @@
 
 <div align="center">
   
-  ## ✨ About Me
-  
-  <img align="right" height="250" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="Coding animation" />
-  
-  ```javascript
-  const skills = ["Flutter", "Dart", "JavaScript", "React", "Git", "Postman"];
-  let techBattle = skills.map(skill => `${skill} is battling for dominance! ⚔️`).join('\n');
-  console.log(techBattle);
-  ```
-  
-  <p>🔹 Passionate about building awesome UI/UX with Flutter.<br/>
-  🔹 Enthusiastic problem solver and continuous learner.<br/>
-  🔹 Fueled by coffee, late-night debugging, and an endless curiosity for tech.<br/></p>
-  
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
+ 
   
   ## 🛠️ Arsenal of Technologies
   
