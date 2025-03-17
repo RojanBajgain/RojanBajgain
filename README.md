@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-> "I am the one who codes." - Heisenberg (probably)
+> "I am the one who codes."
 
 I'm a passionate Flutter developer who loves building beautiful, responsive, and high-performance mobile applications. I thrive on creating seamless user experiences and turning ideas into reality. When I'm not coding, I'm either exploring new technologies, fine-tuning UI/UX, or debugging relentlessly. My goal is to write clean, efficient, and scalable code that stands the test of time.
 
