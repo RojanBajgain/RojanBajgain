@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=RojanBajgain&label=Profile%20views&color=6e5494&style=flat-square)](https://github.com/RojanBajgain)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rojan-bajgain-201b1b26b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RojanBajgain)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://rojanbajgain.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](www.rojanbajgain.com.np/)
 
 
 <img align="center" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Mobile Development GIF" />
