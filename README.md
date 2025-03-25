@@ -61,6 +61,6 @@ I'm a **passionate Flutter developer** who loves building *beautiful*, *responsi
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rojan-bajgain-201b1b26b/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RojanBajgain)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF7139.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://rojanbajgain.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF7139.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.rojanbajgain.com.np)
 
 </div>
