@@ -9,7 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RojanBajgain)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.rojanbajgain.com.np)
 
-
 <img align="center" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Mobile Development GIF" />
 
 </div>
@@ -54,16 +53,12 @@ I'm a **passionate Flutter developer** who loves building *beautiful*, *responsi
 
 ## <span style="color:#4169E1">🎖 **Certifications**</span>
 
-## 🎖 Certifications
-
-<div align="center">
-
-<a href="https://www.credly.com/badges/9a3ee4a8-dbf3-4843-8f40-6b9bb0ba29a5/public_url" target="_blank">
-  <img src="assets/cisco.png" width="150" alt="Cisco Certification Badge" style="border-radius:15px; box-shadow: 0 0 15px #8A2BE2;">
-</a>
-
-</div>
-
+<p align="center">
+  <a href="https://www.credly.com/badges/9a3ee4a8-dbf3-4843-8f40-6b9bb0ba29a5/public_url">
+    <!-- Replace the src below with the image address you copy from your Credly badge page if needed -->
+    <img src="https://images.credly.com/size/200x200/images/0a4d7f8f-cc83-4e2e-8f4a-1a8036ec3d92/blob.png" width="160" alt="Cisco Networking Academy — Introduction to Cybersecurity (Verified)">
+  </a>
+</p>
 
 <div style="background: linear-gradient(to right, #8A2BE2, #4169E1); height: 3px; margin: 20px 0;"></div>
 
