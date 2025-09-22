@@ -49,18 +49,6 @@ I'm a **passionate Flutter developer** who loves building *beautiful*, *responsi
 
 </div>
 
-<div style="background: linear-gradient(to right, #4169E1, #8A2BE2); height: 3px; margin: 20px 0;"></div>
-
-## <span style="color:#4169E1">🎖 **Certifications**</span>
-
-<p align="center">
-  <a href="https://www.credly.com/badges/9a3ee4a8-dbf3-4843-8f40-6b9bb0ba29a5/public_url">
-    <!-- Replace the src below with the image address you copy from your Credly badge page if needed -->
-    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_cybersecurity_16.png" width="150" alt="Cisco Networking Academy — Introduction to Cybersecurity (Verified)">
-  </a>
-</p>
-
-<div style="background: linear-gradient(to right, #8A2BE2, #4169E1); height: 3px; margin: 20px 0;"></div>
 
 ## <span style="color:#4169E1">🔗 **Connect with Me**</span>
 
